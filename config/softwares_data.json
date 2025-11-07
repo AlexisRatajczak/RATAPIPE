@@ -1,0 +1,50 @@
+{
+    "maya": {
+        "default_extension": ".ma",
+        "extensions": [".ma", ".mb"],
+        "path_detect": "maya",
+        "executable": "C:\\Program Files\\Autodesk\\Maya2024\\bin\\maya.exe",
+        "file_type": "Maya ASCII/Maya Binary",
+        "template": "\\\\storage\\esma\\3D4\\sink\\12_template\\maya\\_template_maya.ma",
+        "template_modeling": "\\\\storage\\esma\\3D4\\sink\\12_template\\maya\\_template_modeling.ma"
+    },
+    "houdini": {
+        "default_extension": ".hipnc",
+        "extensions": [".hip", ".hipnc"],
+        "path_detect": "houdini",
+        "executable": "C:\\Program Files\\Side Effects Software\\Houdini 20.5.278\\bin\\houdini.exe",
+        "file_type": "Houdini Digital Asset",
+        "template": "\\\\storage\\esma\\3D4\\sink\\12_template\\houdini\\_template_houdini.hip",
+        "template_lookdev": "\\\\storage\\esma\\3D4\\sink\\12_template\\houdini\\lookdev\\_template_lookdev.hipnc",
+        "template_lighting": "\\\\storage\\esma\\3D4\\sink\\12_template\\houdini\\_template_lighting.hipnc"
+    },
+    "zbrush": {
+        "default_extension": ".zpr",
+        "extensions": [".ztl", ".zpr"],
+        "path_detect": "sculpt",
+        "executable": "C:\\Program Files\\Pixologic\\ZBrush 2022 FL\\ZBrush.exe",
+        "file_type": "ZBrush Document/Tool",
+        "template": "\\\\storage\\esma\\3D4\\sink\\12_template\\zbrush\\_template_zbrush.zpr"
+    },
+    "nuke": {
+        "default_extension": ".nk",
+        "extensions": [".nk"],
+        "path_detect": "nuke",
+        "executable": "C:\\Program Files\\Nuke15.1v2\\Nuke15.1.exe",
+        "file_type": "Nuke Script file",
+        "template": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing.nk",
+        "template_sq0010": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0010.nk",
+        "template_sq0020": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0020.nk",
+        "template_sq0030": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0030.nk",
+        "template_sq0040": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0040.nk",
+        "template_sq0050": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0050.nk",
+        "template_sq0060": "\\\\storage\\esma\\3D4\\sink\\12_template\\nuke\\_template_compositing_sq0060.nk"
+    },
+    "mari": {
+        "default_extension": ".mra",
+        "extensions": [".mra", ".mrb"],
+        "path_detect": "mari",
+        "executable": "C:\\Program Files\\Mari7.0v4\\bin\\Mari7.0.exe",
+        "file_type": "Mari Project"
+    }
+}
